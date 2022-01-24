@@ -1,20 +1,33 @@
 body{
-    background-color: aqua;
+    background-color: #87CEEB;
     font-size: 18px;
     text-align: center;
     color: white;
     font-weight: bold;
+    height: auto;
 }
-section{
+
+.whole{
     width: 50%;
     height: 600px;
     margin: 20px auto;
-    border: 6px solid green;
+    border: 6px solid #48CD31;
     padding: 20px 40px;
     
 }
+h2{
+    margin-bottom: 30px;
+}
 img {
     width:200px;
-    height:200px;
+    height:250px;
     float: right;
+}
+a{
+    border-left: 6px solid #48cd31;
+    color:#48cd31;
+    padding-left: 5px;
+}
+.para{
+    text-align: left;
 }
