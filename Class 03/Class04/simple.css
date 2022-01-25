@@ -3,14 +3,15 @@ body{
     font-size: 18px;
     color: white;
     font-weight: bold;
-    width: 50%;
-    height: 600px;
+    width: 40%;
+    /* height: 60vh; */
     margin: 20px auto;
     border: 6px solid #48CD31;
     padding: 20px 40px;
     
 }
-header{
+header,
+footer{
     text-align: center;
 }
 ul li{
@@ -28,14 +29,24 @@ img {
     height:250px;
     float: right;
 }
-a{
-    border-left: 6px solid #48cd31;
+header li{
+    border-left: 3px solid gray;
     color:#48cd31;
     padding-left: 5px;
 }
-footer{
+header li:nth-child(1){
+    border-left: none;
+    color: white;
+}
+
+footer, a{
     text-align: center;
+    color:#48cd31;
 }
 footer li{
-    
+    border-left: 3px solid gray;
+    padding-left: 5px;
+}
+footer li:nth-child(1){
+    border: none;
 }
