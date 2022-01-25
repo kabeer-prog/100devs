@@ -1,13 +1,8 @@
 body{
     background-color: #87CEEB;
     font-size: 18px;
-    text-align: center;
     color: white;
     font-weight: bold;
-    height: auto;
-}
-
-.whole{
     width: 50%;
     height: 600px;
     margin: 20px auto;
@@ -15,6 +10,16 @@ body{
     padding: 20px 40px;
     
 }
+header{
+    text-align: center;
+}
+ul li{
+    display:inline-block;
+}
+main{
+    text-align: left;
+}
+
 h2{
     margin-bottom: 30px;
 }
@@ -28,6 +33,9 @@ a{
     color:#48cd31;
     padding-left: 5px;
 }
-.para{
-    text-align: left;
+footer{
+    text-align: center;
+}
+footer li{
+    
 }
