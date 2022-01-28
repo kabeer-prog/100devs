@@ -1,2 +1,2 @@
 # 100devs
-Compilation of 100devs projects, Take homes, practices 
+Compilation of 100devs projects, Assignment, practices 
