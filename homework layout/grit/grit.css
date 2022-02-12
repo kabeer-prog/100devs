@@ -35,6 +35,10 @@ section + section{
     background-color: rgb(219,223,226);
     text-align: center;
     float: left;
+    height: 300px;
+}
+section{
+    height: 250px;
 }
 
 section + section + section{
