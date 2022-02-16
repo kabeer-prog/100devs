@@ -8,8 +8,9 @@ html{
     font-size: 62.5%;
 }
 body{
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 16px;
+    font-family: 'Space Mono', monospace;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
     text-align: center;
 }
 
@@ -45,7 +46,7 @@ section{
     padding: 70px 0;
 }
 section p{
-    width: 50%;
+    width: 60%;
     text-align: center;
     margin: 0 auto;
 }
@@ -82,4 +83,5 @@ footer{
     color: #fff;
    
     width: 100%;
+    clear: both;
 }
