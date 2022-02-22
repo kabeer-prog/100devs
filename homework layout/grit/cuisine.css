@@ -1,0 +1,77 @@
+body {
+    font-family: helvetica, sans-serif;
+    margin: 0 auto;
+    max-width: 1300px;
+    background: gray;
+  }
+  section {
+    height: 450px;
+    background-size: cover;
+    margin: 0 0 0 0;
+  }
+  h1 {
+    font-family: 'Londrina Shadow', cursive;
+    text-align: center;
+    font-size: 40px;
+    color: #000;
+    margin: 10px 0 0 45px;
+    width: 40%;
+    text-align: left;
+  }
+  nav *{
+    float: left;
+    padding-left: 20px;
+    list-style:none;
+  }
+  form{
+    margin: 10px 0 0 45px;
+  }
+  
+  .first{
+    background-image: url("https://i.imgur.com/jhJmJBU.png");
+  }
+  .second{
+    background-image: url("https://i.imgur.com/LWmw6yp.jpg");
+    
+    
+  }
+  .text{
+    margin: 0 0 0 450px;
+    width: 50%;
+    text-align: left;
+    padding-top: 80px;
+  }
+  .second  h2, h4 { width:50%;
+     text-align:left;
+    margin-left: 100px;
+    margin-top:0px;
+  }
+  
+  .second p { width:70%;
+     text-align:left;
+     margin-left: 100px;
+  }
+  .speciality ul li{
+    background-color: gray;
+    float:left;
+    margin-left:20px;
+    list-style:none;
+    
+  }
+  .speciality ul{
+    padding-left: 350px;
+    margin-bottom: 50px;
+  }
+  .speciality h2{
+    text-align:center;
+  }
+  .speciality .choice{
+    width: 80%;
+    margin: 30px auto;
+    padding: 10px;
+  }
+  .speciality img{
+    margin-left: 20px;
+    height: 200px;
+    width: 20%;
+  }
