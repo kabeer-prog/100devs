@@ -85,3 +85,7 @@ footer{
     width: 100%;
     clear: both;
 }
+button{
+    padding: 5px 10px;
+    border-radius: 5px;
+}
