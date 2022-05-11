@@ -6,13 +6,13 @@ document.querySelector('#zebra').addEventListener('click', add9);
 document.querySelector('#cantThinkOfAnything').addEventListener('click', sub2);
 
 function makeZero() {
-  total = 0
-  document.querySelector('#placeToPutResult').innerText = total
+  total = 0;
+  document.querySelector('#placeToPutResult').innerText = total;
 }
 
 function jumanji() {
-  total = total + 3
-  document.querySelector('#placeToPutResult').innerText = total
+  total = total + 3;
+  document.querySelector('#placeToPutResult').innerText = total;
 }
 
 function add9() {
