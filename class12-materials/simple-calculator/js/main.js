@@ -16,11 +16,11 @@ function jumanji() {
 }
 
 function add9() {
-  total = total + 9
+  total = total + 9;
   document.querySelector('#placeToPutResult').innerHTML = total;
 }
 
 function sub2() {
-  total = total - 2
+  total = total - 2;
   document.querySelector('#placeToPutResult').innerHTML = total;
 }
